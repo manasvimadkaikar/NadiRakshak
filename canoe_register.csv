@@ -1,0 +1,7 @@
+reg_no,owner_type,home_jetty,licence_status,valid_till
+GA-CAN-1021,Fisherman (synthetic),Colvale,active,2027-03-31
+GA-CAN-1034,Fisherman (synthetic),Siolim,active,2027-03-31
+GA-CAN-2045,Licensed extractor (synthetic),Old Goa,active,2026-12-31
+GA-CAN-2051,Licensed extractor (synthetic),Cortalim,active,2026-12-31
+GA-CAN-2077,Licensed extractor (synthetic),Divar,cancelled,2025-06-30
+GA-CAN-3102,Fisherman (synthetic),Keri,suspended,2026-10-31

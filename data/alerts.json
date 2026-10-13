@@ -1,0 +1,25 @@
+[
+  {
+    "generated_at": "2026-09-29 23:27:54",
+    "site": "CAM-02 Mandovi @ Old Goa",
+    "river": "Mandovi",
+    "lat": 15.5065,
+    "lon": 73.912,
+    "obs_time": "10:00",
+    "zone": "Zone M-3 (Mandovi, approved)",
+    "reg_no": "GA-CAN-2045",
+    "reg_status": "REGISTERED",
+    "max_still_min": 18.2,
+    "confidence": 0.53,
+    "decision": "LEGAL",
+    "reasons": [
+      "Canoe stayed stationary for a long time (extraction pattern)",
+      "Location is inside Zone M-3 (Mandovi, approved)",
+      "Within permitted hours",
+      "Canoe is registered with an active licence"
+    ],
+    "alert_id": "NR-20260929-001",
+    "pdf_sha256": "42a7d5ede18cca476c15ab312e5b1f80e4627d0c2f41d8b07fb3743c022a4b08",
+    "pdf_path": "C:\\NadiRakshak_Prototype\\data\\NR-20260929-001.pdf"
+  }
+]
